@@ -1,1 +1,16 @@
-<mxfile host="app.diagrams.net" modified="2021-07-17T14:01:39.136Z" agent="5.0 (X11; CrOS aarch64 13816.82.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.218 Safari/537.36" version="14.9.0" etag="5b-0Zq2IcKW4cJ-sJ69Z" type="github"><diagram id="-sDyJY30lSewEsifZIPb">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-07-17T14:09:21.954Z" agent="5.0 (X11; CrOS aarch64 13816.82.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.218 Safari/537.36" etag="aRH3sVFTpFmBsn3M66Nm" version="14.9.0" type="github">
+  <diagram id="-sDyJY30lSewEsifZIPb" name="Page-1">
+    <mxGraphModel dx="868" dy="442" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="7_FQV2qcvd4QBVabGTem-1" value="Customer" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="70" y="50" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7_FQV2qcvd4QBVabGTem-2" value="ATM technician" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="70" y="260" width="30" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
